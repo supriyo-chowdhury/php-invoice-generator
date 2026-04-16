@@ -4,6 +4,9 @@
 
 A professional invoice generator built with PHP that creates GST-compliant PDF invoices using Dompdf. Designed for real-world billing systems including fintech, e-commerce, and service-based applications.
 
+## 📸 View Sample
+[Click Here](https://raw.githubusercontent.com/supriyo-chowdhury/php-invoice-generator/main/invoices/INV-66289.pdf)
+
 ## 🚀 Features
 
 * Dynamic invoice generation
